@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-### I am an aspiring **Data Engineer** 🚀 and current student of the **Big Data** program at the SGH Warsaw School of Economics 🎓. 
+### I am a **Junior Data Engineer** 🚀 and current student of the **Big Data** program at the SGH Warsaw School of Economics 🎓. 
 ### My journey on GitHub is focused on mastering the end-to-end data lifecycle.
 #####  *How to reach me:* pojedynskimaciej@gmail.com
 
